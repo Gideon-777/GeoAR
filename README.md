@@ -16,7 +16,7 @@ This project is a **real-time visual localization** application developed in **C
 
 ---
 
-## Installation & Usage
+## Installation & Demo
 1. **Clone the Repository**  
    ```bash
    git clone hhttps://github.com/Gideon-777/GeoAR.git
@@ -31,6 +31,6 @@ This project is a **real-time visual localization** application developed in **C
    - In Unreal Engine’s **Editor**, choose **Build** → **Play** to run the application.
    - For deployment, package the project using **File** → **Package Project** → *your platform*.
 
-4. **Usage**  
+4. **Demos**  
    - Demo 1 : https://drive.google.com/file/d/1y9zwV5Srf50Ad1yciD7CdrkXXsBFrp3I/view?usp=sharing
    - Demo 2 : https://drive.google.com/file/d/12buh0qrmDf1hEQewGG8ysYncnfwUR1ic/view?usp=sharing
